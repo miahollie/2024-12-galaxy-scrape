@@ -5,7 +5,7 @@ The code contained in this repository scrapes FY 2025 budgets for each of New Yo
 Download the School Year 2024-25 Final Enrollment Projects CSV file, which contains school codes that you'll need to complete the scrape. The CSV file can be downloaded here: https://infohub.nyced.org/reports/financial/financial-data-and-reports/sy-2024-25-final-enrollment-projections. Store it in the same folder as the Python file. I've called the folder on my PC "galaxy-allocations," for example. 
 
 ## Process
-Open the file in a text editor such as Visual Studio code, and run "python galaxy_scraper.py" in your terminal. It takes a little over an hour for the process to complete. 
+Open the file in a text editor such as Visual Studio code, navigate to the folder where you've stored the project files, then run "python galaxy_scraper.py" in your terminal. It takes a little over an hour for the process to complete. 
 
 ### Step-by-step process
 1. Import libraries
